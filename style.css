@@ -53,5 +53,8 @@ div.box1{
 .button,th:hover{
     background-color: red;
 }
-    
+.author{
+    text-align: center;
+    color: red;
+}
 
